@@ -1,5 +1,5 @@
 # Registeration Form
-🔗[Register yourself](https://candid-pixie-71e48c.netlify.app/)
+🔗[Register yourself](https://beamish-dieffenbachia-0d3553.netlify.app/)
 
 
 
