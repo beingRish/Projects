@@ -1,3 +1,8 @@
+# Movie App
+[Search 🔎 the movie here](https://candid-pixie-71e48c.netlify.app/)
+
+
+
 # Word Puzzle Game
 
  - **Problem Statement:**    
