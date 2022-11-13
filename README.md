@@ -1,5 +1,5 @@
-# Movie App
-[Search 🔎 the movie here](https://candid-pixie-71e48c.netlify.app/)
+# Registeration Form
+🔗[Register yourself](https://candid-pixie-71e48c.netlify.app/)
 
 
 
